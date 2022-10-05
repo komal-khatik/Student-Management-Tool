@@ -1,0 +1,13 @@
+{
+  "students": [
+    {
+      "studentName": "komal",
+      "lastname": "khatik",
+      "email": "komalkhatik77@gmail.com",
+      "phone": "8010176702",
+      "address": "Aurangabad",
+      "date": "2022-10-14",
+      "id": 1
+    }
+  ]
+}
